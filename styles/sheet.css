@@ -1,0 +1,49 @@
+p{
+    color: #ff0000;
+}
+ul{
+    color: green;
+}
+ol{
+    color: blue;
+}
+body{
+    width: 50%;
+    margin: 0 auto;
+}
+img{
+    width: 100%;
+    height: auto;
+    border: 0px solid grey;
+}
+h1{
+    width: 100%;
+    background-color: black;
+    color: white;
+}
+#id-selector{
+    /*
+    id选择器
+    */
+}
+.class-selector{
+    /*
+    类选择器
+    */
+}
+img[src]{
+    /*
+    属性选择器
+    */
+}
+a:hover{
+    /*
+    伪类选择器
+    */
+}
+html{
+    font-family: 'Open Sans',sans-serif;
+}
+/*
+这是注释
+*/
